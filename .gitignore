@@ -1,0 +1,15 @@
+.gradle
+gradle/
+.idea/
+*.gradle
+*.properties
+gradlew
+gradlew.bat
+*.iml
+*.pro
+.DS_Store
+build
+captures
+.externalNativeBuild
+androidTest
+test
